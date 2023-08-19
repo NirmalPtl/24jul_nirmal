@@ -1,0 +1,66 @@
+1]   What is software? WHat is software eneineering?
+Ans] Software is a set of information, data base, programe data and given instruction and geting information from the data base.
+  -  Software engineering means create a software of database which is use for work like computer work application
+     development.
+
+2]   Explain types of software.
+Ans] Software
+              :- Software is a set of information, data base, programe data and given instruction and geting information from the data base.
+
+     Their is the three types of software.
+
+     1} System software :-
+                           Which sofware using for work for basic computer programe, hardware. That is the system software.
+     
+     2} Programming software :-
+                               Programming software means process of create a programe software of instruction which is the given by 
+                               computer host.Programming software using for run the programe of basic information
+
+     3} Application Software :-
+                               Application software means software that is designed only for a specific task is called application software.
+                               Application software also comes in three types web application, mobile application and desktop application
+                                  1) Web application:-An application that is used to use a website is called a web application.
+                                  2) Mobile application:-The application that is used to run software in a mobile phone is called a mobile application.
+                                  3) Desktop application-An application that is used to run software in a computer,Pc,laptop is called a mobile application.
+ 
+3]   What is SDLC? Explain each phase of SDLC.
+Ans] The full name of SDLC is the software development life cycle. The method used to create high quality software is called SDLC.
+   -  The steps of calibration are as follows:
+                         1) Planning
+                         2) Analysis
+                         3) Design
+                         4) Implementation
+                         5) Testing and Integration
+                         6) Maintenance
+   1} Planning:-
+                First of all the software that is needed in the market and planning is done on it is called Requirement Gathering.
+   
+   2} Analysis:-
+                Analysis means that a report is prepared based on the different types of methods that are running in the market, which is called analysis.
+  
+   3} Design:-
+              Design is the shaping of software through requirements and analysis.
+   
+   4} Implementation:-
+                      After the design of the software is ready, the step in which the software is implemented is called implementation.
+
+   5} Testing and Integration-
+                              After the software is ready, it is put in the market for testing and integration is done based on the customer's requirements it is calles testing and integration.
+
+   6} Maintenance:-
+                   After the software is ready, the changes that are made on the customer's requirement is called maintenance.
+
+4]   What is DFD? Create a DFD diagram on Flipkart.
+Ans] DFD means Data Flow Diagrams.Elements used to graphically represent the data flow within an application are called DFD.
+     Their is four elements of DFD: External Entity, Process, Data Flow, Data Store.
+
+5]   What is Flow chart? Create a flowchart to make addition of two numbers.
+Ans] A flow chart is a diagram used to show a process is called a flow chart.Through this method, if any defect is found in the process, its solution can also be brought.
+   - Their is three formate of flow chart.
+        1) Linear or sequence
+        2) Branching
+        3) Looping
+
+
+6]   What is Use case Diagram? Create a use-case on bill payment on paytm.
+Ans] It is called a use case diagram which is used to show the functions of the system as well as different information.
